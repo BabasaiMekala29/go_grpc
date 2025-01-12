@@ -1,4 +1,4 @@
-module greet_service
+module github.com/BabasaiMekala29/go_grpc
 
 go 1.23.4
 
